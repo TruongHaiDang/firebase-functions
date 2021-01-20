@@ -16,7 +16,7 @@ $(document).ready(function () {
     var recaptchaVerifier = new firebase.auth.RecaptchaVerifier('reCaptcha-container', {
         'size': 'invisible',
         'callback': (response) => {
-            console.log(response)
+            console.log('response', response)
         }
     });
     recaptchaVerifier.render();

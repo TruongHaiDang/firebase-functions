@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vendingmachine-f9709",
+  "private_key_id": "67259c6e035756cd6cf898af482b83b03309fa74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSSFU6Qnj7xZ6A\ner90GI7RRN4c+RrQP2Neo1FR48EMxdZjjHukq3Rtnfrgo6SPTbGFrtqXFqMeX1Fg\n88VXSs+0DHTgLg8dCzI99YrJvFoFUlyy7owIPQvCI/Iqvy3xGQkG0OED81i0QH2q\n73lcO75Lh6Kx7gBKGAliiQKNeBdbmw7jNRL5UhZ18h8FRsKkkvx7RNyBe1dmqErA\nz9J22EoWOmlMnSoLP3Cgkayl6bZ4pkZ9YLZTR8NgEweQOMsh+IJaZaTRnTXTMDf4\n7hGXTg88+gSNFlcAAhtt/UE4abiVCk5iSP1h8sUXSUfrZON00vNqRSB2akfNNP3x\nPyQw++SBAgMBAAECggEACwtrZUIxPe/eTJy39C00f0gVWG0AdsUKcidKPltqrysI\nHwJeMCvX1xJB/RBYnjnt/jDFBU+qvOIn0/ZOfzhBSrqpX7xqh2AEiO657gsKuvMh\n16AGMksK+7tYufHZp1Cja1XTCh18pDi9pEMqJRTHrzk28fs3ygsFjmCCMP87uD6g\nE1oe4ynIgxWll0zIZ9esKNrtJrHsZl32+vlhqpPNzj/rbxMUjg4Z9WFHFfHdOcZu\np/njZ9ei6lSBJY+9nk7kFI+7vuzl9DA48tASPku9t/QnGUp4DYOKXiEmoSZvOPsH\nIje3p2ncFt6FoNzzRQN9otFIYtUMrHo4EeYTvdeunwKBgQDMLpJ4MnrjQSHy9WWz\ns8rNDVEvI5QEnXxuA3XXAG9YLowSemHhzYMVzrIVfi3SXy/s0xMvSqyDmZHhzNVV\nPUmDeCTqufm5T/2npW5l4imII8Ft2TkNHrPfiIjS2XLVgMp6mo5Zt4OoNKzwrxtI\nVrdfW3s690AEWTrwqK/pHeD7wwKBgQC3aB2YaHTDOKIpKuRb3bIjCYb2K7lgaXUe\nxFoG2L64oU7VP3Rxs2kcPLAmZs/PLqGso0gZ7VA31erdAFTER6nPfuuLXcBK4l2y\nOGNKWvVcVkSY8FUBhOQclBKVlrlnrNL1oQDlMRGJ9ZwDYq4xFfrzavGi/gsMhl/k\ndRaXdDoOawKBgFlYz9M1E706FScB5z0ZodbUyv+7q9vRJk/lx70Lfa2ywKydTRPI\nIGJ8jkUFb/usl4YkXzLElHUJ0GJkhb3FEdQr0Mu+Ed7bd/3SUFrY+p+ONehhs6tg\nEgnw7x6E9NEkiHXaCAyOV1hVpI+1sFSZTai2mVgWNbcxbK8+wata3caNAoGBAIQl\nbE2H1bljcNOgp/DZB6TfFHMChgrFcTG93+/W83QsJZTYp5nU3wMNZw4EPe7Vdn/h\nFe44YvgYFaUuu+TAjcWHeUdtQUOzXjcvEbtdVjQ1pC9d2qHBkmpU9h75/pSInWeF\nnhOFC1IPuV1nGIMdhzcj8v6xdFyN5UHCa4isobgJAoGAKGIQlUo7ra4QnM3+vjLL\nEJd4K250YJRQHt+DFpiuHjg6htdN5Wvw2unnBbzFZCXPnhIrPcwlu+WWpYFi3rSN\nES6uJEQKBEy6H4iAiBf/YB3pIA9xRnOBEBVmZGK0h//gS8jZR/7PIpDcu5Am6cB6\nRUms1JnP4fvCdd6hL75e/Nc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vendingmachine-f9709@appspot.gserviceaccount.com",
+  "client_id": "107533008707580604031",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vendingmachine-f9709%40appspot.gserviceaccount.com"
+}

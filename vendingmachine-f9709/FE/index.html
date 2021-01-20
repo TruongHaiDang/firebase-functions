@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- jQuery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <!-- Firebase -->
+        <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-auth.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-firestore.js"></script>
+        <!-- UserJs -->
+        <script src="./js/index.js"></script>
+        <!-- UserCss -->
+        <link rel="stylesheet" href="./css/index.css">
+        <title>Firebase Authentication FE</title>
+    </head>
+    <body>
+        <div class="authen">
+            <h1 class="text-center">Phone SignIn Firebase</h1>
+            <div id="reCaptcha-container"></div>
+            <input type="text" name="phone-numbers" id="phone-numbers">
+            <button id="phonesignin">Phone SignIn</button>
+            <h1 class="text-center">Verify code</h1>
+            <input type="text" name="verify-code" id="verify-code">
+            <button id="verifycode">Verify</button>
+        </div>
+        <div class="authen">
+            <h1 class="text-center">Email SignIn/SignUp Firebase</h1>
+            <input type="email" name="email" id="email" placeholder="email"><br><br>
+            <input type="password" name="password" id="password" placeholder="password"><br><br>
+            <button id="emailsignin">Email SignIn</button>
+            <button id="emailsignup">Email SignUp</button>
+        </div>
+        <div class="authen">
+            <h1 class="text-center">SignOut</h1>
+            <button id="signout">SignOut</button>
+        </div>
+    </body>
+</html>

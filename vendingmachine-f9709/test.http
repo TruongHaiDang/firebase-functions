@@ -1,0 +1,87 @@
+POST http://localhost:5001/vendingmachine-f9709/us-central1/app/post-greeting HTTP/1.1
+Content-Type: application/json
+
+{
+
+}
+
+
+
+
+###
+POST http://localhost:5001/vendingmachine-f9709/us-central1/app/mongo-add HTTP/1.1
+Content-Type: application/json
+
+{
+    "data": {
+        "name": "Raspberry Pi 4"
+    }
+}
+
+###
+POST http://localhost:5001/vendingmachine-f9709/us-central1/app/mongo-update HTTP/1.1
+Content-Type: application/json
+
+{
+    "filter": {
+        "name": "Raspberry Pi 3"
+    },
+    "data": {
+        "name": "Combo Raspberry Pi 4"
+    }
+}
+
+###
+POST http://localhost:5001/vendingmachine-f9709/us-central1/app/mongo-delete HTTP/1.1
+Content-Type: application/json
+
+{
+    "filter": {
+        "name": "Combo Raspberry Pi 4"
+    }
+}
+
+
+
+
+###
+POST http://localhost:5001/vendingmachine-f9709/us-central1/app/firestore-add HTTP/1.1
+Content-Type: application/json
+
+{
+    "data": {
+        "name": "Raspberry Pi 4"
+    }
+}
+
+###
+POST http://localhost:5001/vendingmachine-f9709/us-central1/app/firestore-update HTTP/1.1
+Content-Type: application/json
+
+{
+    "filter": "SRiNnuNaI9xVLcfX5lw7",
+    "data": {
+        "name": "Combo Raspberry Pi 4"
+    }
+}
+
+###
+POST http://localhost:5001/vendingmachine-f9709/us-central1/app/firestore-delete HTTP/1.1
+Content-Type: application/json
+
+{
+    "filter": "SRiNnuNaI9xVLcfX5lw7"
+}
+
+###
+POST http://localhost:5001/vendingmachine-f9709/us-central1/app/sign-up HTTP/1.1
+Content-Type: application/json
+
+{
+    "data": {
+        "email": "haidanguond@gmail.com",
+        "phoneNumber": "+84907082941",
+        "password": "ThuyDuong3476",
+        "displayName": "haidang@gmail.com"
+    } 
+}
